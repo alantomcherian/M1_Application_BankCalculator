@@ -1,8 +1,16 @@
-﻿*M1\_Application\_BankCalculator*
+# M1_Application_BankCalculator
+
+---
+
+## Bank Calculaor App
+---
 
 Bank calculator app is designed to calculate the maturity amount of an Fixed Deposit account by using initial amount, rate, and duration all while getting rid of manual calculation involved by quarterly compounding interest.
 
-Folder Structure
+---
+
+## Folder Structure
+---
 
 |Folder|Description|
 | :-: | :-: |
